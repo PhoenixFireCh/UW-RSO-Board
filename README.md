@@ -2,7 +2,7 @@
 
 Submitted by: Harrison Cheung
 
-This web app: Shows some of the RSO (clubs) of the University of Washington Seattle Campus, with descriptions and links to their page.
+This web app: Shows some of the RSO (clubs) of the University of Washington Seattle Campus, with descriptions and links to their page. All images belong to their respective RSOs.
 
 Time spent: 6 hours spent in total
 
@@ -32,9 +32,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
-
-<img src='https://imgur.com/a/VNEUpYr' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Here's a walkthrough of implemented required features: https://imgur.com/a/VNEUpYr
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
@@ -45,7 +43,7 @@ GIF created with ScreenToGif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Relearning some of the ways I could create a cohesive website such as animations was the most challenging part of this project.
 
 ## License
 
